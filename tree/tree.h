@@ -15,6 +15,13 @@ struct Node
     }
 };
 
+/*
+        1
+    2       3
+4               5
+            6
+*/
+
 // helper function to build a sample tree
 inline Node *createSampleTree()
 {
