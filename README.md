@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
