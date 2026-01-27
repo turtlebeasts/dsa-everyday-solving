@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0061-rotate-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0206-reverse-linked-list) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
