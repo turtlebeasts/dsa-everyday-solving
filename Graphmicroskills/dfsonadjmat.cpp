@@ -1,14 +1,14 @@
 #include <vector>
 using namespace std;
-void dfs(int node, vector<vector<int>> &matrix, vector<bool> &visited)
+
+void dfs(int node, vector<vector<int>> &adj, vector<bool> &visited)
 {
     visited[node] = true;
-    int n = matrix.size();
-    for (int v = 0; v < n; v++)
+    for (int v = 0; v < adj.size(); v++)
     {
-        if (matrix[node][v] == 1 && !visited[v])
+        if (!visited[v] && adj[node][v] == 1)
         {
-            dfs(v, matrix, visited);
+            dfs(v, adj, visited);
         }
     }
 }
