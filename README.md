@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -203,5 +207,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
