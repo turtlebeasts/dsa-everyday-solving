@@ -67,9 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
+| [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -140,9 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0210-course-schedule-ii) |
+| [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
+| [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -151,9 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0210-course-schedule-ii) |
+| [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
+| [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -181,11 +193,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0210-course-schedule-ii) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
+| [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
+| [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
