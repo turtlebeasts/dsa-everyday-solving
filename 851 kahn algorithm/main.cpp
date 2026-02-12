@@ -1,7 +1,7 @@
 class Solution
 {
 public:
-    vector<int> loudAndRich(vector<vector<int>> &richer, vector<int> &quiet)
+    vector<int> main(vector<vector<int>> &richer, vector<int> &quiet)
     {
         int n = quiet.size();
 
@@ -42,6 +42,7 @@ public:
                 {
                     ans[v] = ans[u];
                 }
+
                 indegree[v]--;
                 if (indegree[v] == 0)
                 {
