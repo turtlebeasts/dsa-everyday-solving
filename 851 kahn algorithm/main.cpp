@@ -42,7 +42,6 @@ public:
                 {
                     ans[v] = ans[u];
                 }
-
                 indegree[v]--;
                 if (indegree[v] == 0)
                 {
