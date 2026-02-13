@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
