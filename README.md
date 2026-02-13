@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
@@ -228,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
