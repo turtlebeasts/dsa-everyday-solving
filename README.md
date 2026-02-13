@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0015-3sum) |
 | [0074-search-a-2d-matrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Tree
 |  |
 | ------- |
