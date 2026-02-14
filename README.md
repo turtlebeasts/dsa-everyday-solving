@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0443-string-compression) |
 ## Dynamic Programming
 |  |
 | ------- |
