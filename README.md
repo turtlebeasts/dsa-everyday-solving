@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0485-max-consecutive-ones) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Graph Theory
 |  |
