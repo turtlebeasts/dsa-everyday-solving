@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -167,11 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
