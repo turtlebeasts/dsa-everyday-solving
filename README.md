@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Graph Theory
 |  |
