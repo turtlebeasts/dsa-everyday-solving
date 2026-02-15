@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0443-string-compression) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0876-middle-of-the-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0876-middle-of-the-linked-list) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0485-max-consecutive-ones) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0234-palindrome-linked-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
 ## Math
 |  |
@@ -264,4 +268,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
