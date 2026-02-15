@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Graph Theory
 |  |
