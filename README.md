@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0001-two-sum) |
 | [0142-linked-list-cycle-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0200-number-of-islands) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0349-intersection-of-two-arrays) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0229-majority-element-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
