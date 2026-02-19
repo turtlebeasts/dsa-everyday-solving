@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
+| [1042-flower-planting-with-no-adjacent](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1791-find-center-of-star-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
