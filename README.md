@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
+| [0868-binary-gap](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0868-binary-gap) |
 ## Stack
 |  |
 | ------- |
