@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
 | [1089-duplicate-zeros](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1089-duplicate-zeros) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0382-linked-list-random-node) |
+| [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Doubly-Linked List
 |  |
@@ -385,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
