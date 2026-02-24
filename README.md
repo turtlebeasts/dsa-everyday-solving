@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0404-sum-of-left-leaves) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0841-keys-and-rooms) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1971-find-if-path-exists-in-graph](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0404-sum-of-left-leaves) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
