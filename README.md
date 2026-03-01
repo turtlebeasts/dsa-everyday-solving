@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
