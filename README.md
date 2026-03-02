@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1470-shuffle-the-array) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0733-flood-fill) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Monotonic Stack
 |  |
