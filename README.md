@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1518-water-bottles) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
