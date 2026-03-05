@@ -21,7 +21,7 @@ public:
             }
         }
 
-        int ans = 0;
+        int answer = 0;
 
         for (int i = 0; i < m; i++)
         {
@@ -29,11 +29,11 @@ public:
             {
                 if (mat[i][j] == 1 && row[i] == 1 && col[j] == 1)
                 {
-                    ans++;
+                    answer++;
                 }
             }
         }
 
-        return ans;
+        return answer;
     }
 };
