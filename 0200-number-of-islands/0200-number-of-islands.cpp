@@ -1,7 +1,6 @@
 class Solution {
 public:
     int n, m;
-    int count = 0;
     vector<vector<int>> directions = {{-1,0},{1,0},{0,-1},{0,1}};
     void dfs(int r, int c, vector<vector<char>>& grid){
         if(r<0 || c < 0 || r >=n || c>=m) return;
@@ -14,12 +13,13 @@ public:
     int numIslands(vector<vector<char>>& grid) {
         n = grid.size();
         m = grid[0].size();
+        int count = 0;
 
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(grid[i][j]=='1'){
-                    dfs(i,j,grid);
                     count++;
+                    dfs(i,j,grid);
                 }
             }
         }
