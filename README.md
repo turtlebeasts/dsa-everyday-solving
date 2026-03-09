@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Greedy
 |  |
 | ------- |
