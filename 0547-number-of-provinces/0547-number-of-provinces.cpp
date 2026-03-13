@@ -1,22 +1,27 @@
 class Solution {
 public:
-    void dfs(int node, vector<vector<int>>& isConnected, vector<bool>& visited){
-        visited[node]=true;
-        for(int v=0;v<isConnected.size();v++){
-            if(!visited[v] && isConnected[node][v]==1){
-                dfs(v, isConnected, visited);
-            }
-        }
-    }
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int province = 0;
-        vector<bool> visited(isConnected.size(), false);
-        for(int i=0;i<isConnected.size(); i++){
-            if(!visited[i]){
+        unordered_set<int> visited;
+        int provinces = 0;
+
+        for (int i = 0; i < isConnected.size(); i++) {
+            if (visited.find(i) == visited.end()) {
                 dfs(i, isConnected, visited);
-                province++;
+                provinces++;
             }
         }
-        return province;
+
+        return provinces;        
+    }
+
+private:
+    void dfs(int city, vector<vector<int>>& isConnected, unordered_set<int>& visited) {
+        visited.insert(city);
+        for (int cur = 0; cur < isConnected[city].size(); cur++) {
+            int connected = isConnected[city][cur];
+            if (connected == 1 && visited.find(cur) == visited.end()) {
+                dfs(cur, isConnected, visited);
+            }
+        }
     }
 };
