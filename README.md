@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0500-keyboard-row) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0643-maximum-average-subarray-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0695-max-area-of-island) |
@@ -466,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Backtracking
