@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1518-water-bottles](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1518-water-bottles) |
+| [1622-fancy-sequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -483,4 +484,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0692-top-k-frequent-words) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1622-fancy-sequence) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
