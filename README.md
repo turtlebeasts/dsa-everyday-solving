@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1980-find-unique-binary-string) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
@@ -418,11 +419,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0238-product-of-array-except-self) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
