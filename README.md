@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 | [0977-squares-of-a-sorted-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1089-duplicate-zeros](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0977-squares-of-a-sorted-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0763-partition-labels) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
