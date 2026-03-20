@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1652-defuse-the-bomb) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1929-concatenation-of-array) |
 | [1980-find-unique-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1980-find-unique-binary-string) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting Sort
