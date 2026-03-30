@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1980-find-unique-binary-string) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Array
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2465-number-of-distinct-averages](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2465-number-of-distinct-averages) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting Sort
 |  |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
