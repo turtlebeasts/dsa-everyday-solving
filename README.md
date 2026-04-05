@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0500-keyboard-row) |
+| [0657-robot-return-to-origin](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0763-partition-labels) |
