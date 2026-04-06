@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0692-top-k-frequent-words) |
 | [0763-partition-labels](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0763-partition-labels) |
+| [0874-walking-robot-simulation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0874-walking-robot-simulation) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0812-largest-triangle-area](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0812-largest-triangle-area) |
 | [0860-lemonade-change](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0860-lemonade-change) |
+| [0874-walking-robot-simulation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0874-walking-robot-simulation) |
 | [0881-boats-to-save-people](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0977-squares-of-a-sorted-array) |
 | [0997-find-the-town-judge](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0997-find-the-town-judge) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/0874-walking-robot-simulation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1441-build-an-array-with-stack-operations) |
 | [1518-water-bottles](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
