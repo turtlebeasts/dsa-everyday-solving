@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1929-concatenation-of-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1929-concatenation-of-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2460-apply-operations-to-an-array](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2460-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2751-robot-collisions) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/turtlebeasts/dsa-everyday-solving/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
